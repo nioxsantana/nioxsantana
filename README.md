@@ -1,4 +1,4 @@
-```config.json
+
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A Turkish Cyber Criminal</h3>
 
@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nioxsantana&" alt="nioxsantana" /></p>
 
-```
