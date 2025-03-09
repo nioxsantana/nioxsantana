@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A Turkish Cyber Criminal</h3>
+<h3 align="center">A Turkish Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nioxsantana&label=Profile%20views&color=0e75b6&style=flat" alt="nioxsantana" /> </p>
 
