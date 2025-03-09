@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **https://discordapp.com/users/1151159750340382750**
 
-- ⚡ About Me **Nobody can be like me.**
+- ⚡ **Nobody can be like me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
